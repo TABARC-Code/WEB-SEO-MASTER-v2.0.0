@@ -4,7 +4,7 @@ An expert Claude AI skill that actually knows how to make websites work.
 
 Not just *look good* — actually *work*. Rank on Google. Convert visitors. Keep them coming back. Whether you're auditing a live site, building a landing page, or trying to figure out why your YouTube videos aren't getting watched, this skill has the methodology and the reference material to get it done.
 
-Built on real-world best practices from 2026: Brian Dean's SEO research, Popular Youtube production creators framework, creator intelligence from people who actually do this for a living, not just people who write about it.
+Built on real-world best practices from SEO research, Popular Youtube production creators framework, creator intelligence from people who actually do this for a living, not just people who write about it.
 
 ## What It Does
 
@@ -266,7 +266,7 @@ Open-source. Use with Claude.
 
 The research inside this skill comes from people who actually do this work at scale:
 
-- **Brian Dean (Backlinko)** — SEO methodology
+- **Professional Theories and development (Backlinko)** — SEO methodology
 - **Popular Youtube Creator** — production framework and the 3-metric system
 - **Chucky Appleby** — thumbnail design principles from his YouTube video
 - **VidIQ and TubeBuddy** — creator tools and trend data

@@ -4,7 +4,7 @@ An expert Claude AI skill that actually knows how to make websites work.
 
 Not just *look good* — actually *work*. Rank on Google. Convert visitors. Keep them coming back. Whether you're auditing a live site, building a landing page, or trying to figure out why your YouTube videos aren't getting watched, this skill has the methodology and the reference material to get it done.
 
-Built on real-world best practices from 2026: Brian Dean's SEO research, MrBeast's production framework, creator intelligence from people who actually do this for a living, not just people who write about it.
+Built on real-world best practices from 2026: Brian Dean's SEO research, Popular Youtube production creators framework, creator intelligence from people who actually do this for a living, not just people who write about it.
 
 ## What It Does
 
@@ -21,7 +21,7 @@ Raw HTML/CSS for landing pages. Optimised copy that works both for search engine
 ### Optimise for Search
 **Google:** keyword research that actually maps to business intent. On-page optimisation that treats each page like a unique rank target. Technical SEO that fixes crawlability and speed issues. E-E-A-T signals — the signals Google actually measures now. Local SEO for physical venues (NAP consistency, Google Business Profile, schema).
 
-**YouTube:** because the same audience watching YouTube is also searching Google, and the skill bridges both. Titles in two variants (one for search ranking, one for human click-through rate). Descriptions with chapters that get parsed as "key moments." Hook science from MrBeast's actual production framework. Retention tactics that aren't just "add B-roll" — they're specific pattern interrupts and story structures that measurably keep viewers watching.
+**YouTube:** because the same audience watching YouTube is also searching Google, and the skill bridges both. Titles in two variants (one for search ranking, one for human click-through rate). Descriptions with chapters that get parsed as "key moments." Hook science from  actual production framework. Retention tactics that aren't just "add B-roll" — they're specific pattern interrupts and story structures that measurably keep viewers watching.
 
 **Core Web Vitals:** when a page is slow, conversion tanks before anything else matters. The skill diagnoses LCP (loading), INP (responsiveness), and CLS (stability) failures from HTML inspection alone. Knows the fixes in priority order.
 
@@ -98,7 +98,7 @@ Every audit flags failures across all dimensions at once. Every build includes S
 
 **google-seo.md** isn't a list of SEO tips. It's the methodology that separates pages that rank from pages that don't. Search intent framework (matching format, angle, and depth). E-E-A-T implementation (how to signal expertise and trustworthiness — it matters now). Keyword research as a workflow, not a magic search. On-page fundamentals that actually move rankings. Technical SEO that isn't just "get HTTPS" (table stakes by now). Core Web Vitals diagnosis you can do from HTML alone. How to handle keyword cannibalism when it happens. Penalty recovery when traffic drops. Local SEO specifics for venues, not just big brands.
 
-**youtube-seo.md** is built from actual creator intelligence. MrBeast's internal framework (the 3 metrics: CTR, AVD, AVP). Chucky Appleby's thumbnail science from an official YouTube interview. The KVS method (keyword → video → SEO) from practitioners who use it. Not algorithm speculation — actual framework from people who ship content regularly. Retention tactics that aren't "add more B-roll." The hook structure that works. Why chapters paradoxically increase watch time. How to title a video so it ranks *and* gets clicked. Description structure that YouTube crawls and LLMs parse.
+**youtube-seo.md** is built from actual creator intelligence. Youtubes Ppular and knowledagbale producers internal framework (the 3 metrics: CTR, AVD, AVP). Chucky Appleby's thumbnail science from an official YouTube interview. The KVS method (keyword → video → SEO) from practitioners who use it. Not algorithm speculation — actual framework from people who ship content regularly. Retention tactics that aren't "add more B-roll." The hook structure that works. Why chapters paradoxically increase watch time. How to title a video so it ranks *and* gets clicked. Description structure that YouTube crawls and LLMs parse.
 
 **ux-design.md** explains how to guide a user's eye without saying "make the button bigger" a hundred times. Visual hierarchy as six specific levers (size, contrast, position, spacing, weight, colour). Typography systems that scale. Colour systems that work light and dark. The thumb zone map for mobile. When animations help vs. hurt. What makes a hero section actually work. The design anti-patterns that destroy conversion (two equal CTAs, brand name as H1, hidden pricing, no social proof near the button).
 
@@ -157,7 +157,7 @@ You get: Google Business Profile setup (what fields matter), NAP consistency acr
 
 **google-seo.md** covers how Google actually ranks pages in 2026 — not what SEO agencies *claim* they do, but what works. 14 sections that form a complete mental model: intent matching (the first gate), E-E-A-T signals (experience, expertise, authority, trustworthiness), keyword research that maps to business value, on-page fundamentals that matter, technical foundation (crawlability, speed, structure), Core Web Vitals diagnosis you can do from HTML, content strategy for topical authority, featured snippet formatting, link building that works, AI search optimisation (this is new and matters), local SEO deep-dive, keyword cannibalism diagnosis, penalty recovery, and schema templates you can copy-paste.
 
-**youtube-seo.md** is different from most YouTube advice because it's based on actual creator framework, not armchair speculation. MrBeast's 3-metric system (CTR, average view duration, average view percentage). Real thumbnail science from an official YouTube video with the designer who creates MrBeast thumbnails. The KVS method (keyword first → video second → SEO third) that practitioners actually use. Hook structure that keeps people watching past 30 seconds. Description architecture. Why chapters increase watch time instead of letting people skip. Retention tactics. The tools that matter. A/B testing workflow.
+**youtube-seo.md** is different from most YouTube advice because it's based on actual creator framework, not armchair speculation. Youtue creatrss 3-metric system (CTR, average view duration, average view percentage). Real thumbnail science from an official YouTube video with the designer who creates Ppular and highly sucessful thumbnails. The KVS method (keyword first → video second → SEO third) that practitioners actually use. Hook structure that keeps people watching past 30 seconds. Description architecture. Why chapters increase watch time instead of letting people skip. Retention tactics. The tools that matter. A/B testing workflow.
 
 **ux-design.md** explains visual hierarchy as a system (six levers you control), not as magic. Typography that scales responsively. Colour systems that work in light and dark mode. Mobile design that respects how people actually hold phones. Accessibility that isn't a checkbox. Common design anti-patterns that tank conversion (two equal CTAs, brand name as H1, pricing hidden, no social proof). Animation that helps instead of distracts. How design choices directly affect SEO signals (dwell time, scroll depth, bounce rate). 2026 trends evaluated for when they actually help vs. when they're just noise.
 
@@ -267,7 +267,7 @@ Open-source. Use with Claude.
 The research inside this skill comes from people who actually do this work at scale:
 
 - **Brian Dean (Backlinko)** — SEO methodology
-- **MrBeast** — production framework and the 3-metric system
+- **Popular Youtube Creator** — production framework and the 3-metric system
 - **Chucky Appleby** — thumbnail design principles from his YouTube video
 - **VidIQ and TubeBuddy** — creator tools and trend data
 - **Youri van Hofwegen** — the KVS method
